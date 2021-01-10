@@ -1,0 +1,8 @@
+Project:  	Mitchell's Drive Bot 
+Based on: 	FRC Command Based Robot Template
+Author:	  	Mitchell Pell
+Version:	1.1
+Date:		06/14/2012 (mm/dd/yyyy)
+--------------------------------
+
+Please forgive my spelling!  :)
